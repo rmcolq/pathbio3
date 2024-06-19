@@ -1,0 +1,22 @@
+name: pathbio3
+channels:
+  - bioconda
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - numpy
+  - pandas
+  - pip
+  - jupyter
+  - fastqc
+  - trim_galore
+  - star
+  - gffread
+  - multiqc
+  - samtools
+  - pip:
+    - pydeseq2
+    - scanpy 
+
+
