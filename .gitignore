@@ -165,7 +165,7 @@ cython_debug/
 # Potentially big files
 analysis
 data/*/raw
-data/Toxoplasma_gondii/subsampled
+data/*/subsampled
 
 data/Plasmodium/reference/PlasmoDB-68_PbergheiANKA.gff
 data/Plasmodium/reference/PlasmoDB-68_PbergheiANKA_AnnotatedTranscripts.fasta
