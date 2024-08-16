@@ -1,0 +1,1 @@
+data/Schistosoma_mansoni/reference/schistosoma_mansoni.PRJEA36577.WBPS19.genomic.fa.gz filter=lfs diff=lfs merge=lfs -text
