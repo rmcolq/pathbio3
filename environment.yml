@@ -10,7 +10,7 @@ dependencies:
   - pip
   - jupyter
   - fastqc
-  - trim_galore
+  - trim-galore
   - star
   - gffread
   - multiqc
